@@ -1,6 +1,6 @@
 cask "nori" do
-  version "0.6.0"
-  sha256 "cacf152f90afcd6a788a5fd90cc1fa87cb7d7939f35a1478a4405dc70000fdf4"
+  version "0.7.0"
+  sha256 "359c3f3eb7081f4b6f416fd5cc7eeebfec523590b1481f6af0d4b2a9c9c7502b"
 
   url "https://github.com/mk-tdev/nori/releases/download/v#{version}/Nori-#{version}-apple-silicon.zip"
   name "Nori"
